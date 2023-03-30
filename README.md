@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
-I am a final year student studying for a Bachelors in Computer Science at HNB Garhwal University, with a special focus on applications of data science.
+I am a final year student studying for a Bachelors in Information Technology at HNB Garhwal University, with a special focus on applications of data science.
 
 ---
 ### Work Experience
